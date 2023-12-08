@@ -20,14 +20,14 @@ body {
 }
 
 .main {
-    background-color: hsl(292, 16%, 49%) ;
+    background-color: hsl(275, 100%, 97%);
     min-height: 60vh;
     position: relative;
     
 }
 
 .main_content {
-    padding: 1rem;
+    padding: 2rem;
     border-radius: 1rem;
     --width :90%;  
     max-width: 500px; 
